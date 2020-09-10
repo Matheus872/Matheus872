@@ -1,3 +1,3 @@
 - 💼 Cursando Engenharia de Computação
-- 📚 Atualmente estudando BDA e IA.
+- 📚 Atualmente estudando BDA e Backend.
 - 📫 @hsl.matheus no Instagram
