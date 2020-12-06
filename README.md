@@ -1,3 +1,2 @@
 - 💼 Cursando Engenharia de Computação
-- 📚 Atualmente estudando Backend.
 - 📫 @hsl.matheus no Instagram
