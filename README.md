@@ -1,2 +1,2 @@
-- 💼 Cursando Engenharia de Computação
+- 💼 Acadêmico em Engenharia de Computação
 - 📫 @hsl.matheus no Instagram
