@@ -1,7 +1,7 @@
 ## Hi, I'm Matheus a developer 🚀 from Brasil
 
 - 💼 Academic in **Computer Engineering**
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Java** and **Android**
 
  <div>
   <a href="https://github.com/matheus872">
