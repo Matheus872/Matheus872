@@ -1,4 +1,4 @@
-## Hi, I'm Matheus a developer 🚀 from Brasil
+## Hi, I'm Matheus! A developer 🚀 from Brasil
 
 <table>
   <tr>
