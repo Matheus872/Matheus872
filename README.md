@@ -19,6 +19,8 @@ Contact me 💌
   </tr>
 </table>
 
+ ![Snake animation](https://github.com/matheus872/matheus872/blob/output/github-contribution-grid-snake.svg)
+
  <div>
   <a href="https://github.com/matheus872">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=matheus872&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -59,8 +61,6 @@ Contact me 💌
  </div>
  
   ##
- 
- 
- ![Snake animation](https://github.com/matheus872/matheus872/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
