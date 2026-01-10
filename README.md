@@ -4,7 +4,7 @@
   <tr>
     <td valign="top" width="50%">
 - 💼 Bachelor of Science in Computer Engineering </strong><br>
-- 🎲 GCP Data Expert <strong> AWS </strong>
+- 🎲 GCP Data Expert
 <br><br><br><br><br><br><br>
 Contact me 💌 
 <br><br>
@@ -23,8 +23,9 @@ Contact me 💌
 
  <div>
   <a href="https://github.com/matheus872">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=matheus872&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus872&layout=compact&langs_count=16&theme=tokyonight"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus872&show_icons=true&theme=radical)
+  <!--<img height="180px" src="https://github-readme-stats.vercel.app/api?username=matheus872&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus872&layout=compact&langs_count=16&theme=tokyonight"/> -->
  </div>
  
  <h2>Back-End</h2>
