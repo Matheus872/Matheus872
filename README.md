@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-- 💼 Academic in <strong> Computer Engineering </strong><br>
-- 🌱 I’m currently learning <strong> AWS </strong>
+- 💼 Bachelor of Science in Computer Engineering </strong><br>
+- 🎲 GCP Data Expert <strong> AWS </strong>
 <br><br><br><br><br><br><br>
 Contact me 💌 
 <br><br>
